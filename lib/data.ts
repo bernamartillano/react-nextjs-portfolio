@@ -96,8 +96,8 @@ export const projectsData = [
   {
     title: "SuperHype.SG",
     description:
-      "An e-commerce website for selling toy collectibles. Integrated cart and payment integration.  Developed in Shopify. ",
-    tags: ["Shopify"],
+      "An e-commerce website for selling toy collectibles. Integrated cart, checkout, and payment integration. Implemented a custom extension for product importing in admin settings.",
+    tags: ["OpenCart"],
     imageUrl: superhypeImg,
   },
   {

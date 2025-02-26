@@ -7,7 +7,7 @@ const nextConfig: NextConfig = {
     remotePatterns: [
       {
         protocol: "https",
-        hostname: "scontent.fcrk2-4.fna.fbcdn.net",
+        hostname: "scontent.fmnl8-3.fna.fbcdn.net",
       },
     ],
   },
