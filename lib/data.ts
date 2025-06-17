@@ -69,6 +69,14 @@ export const experiencesData = [
     icon: React.createElement(FaReact),
     date: "2021 - 2025",
   },
+  {
+    title: "Technical Lead",
+    location: "MyRidius",
+    description:
+      "Uplifted and developed UI/UX for a web application using Angular18, inlucding unit tests. Web service integration using Node.Js and Express",
+    icon: React.createElement(FaReact),
+    date: "2025 - Present",
+  },
 ] as const;
 
 export const projectsData = [

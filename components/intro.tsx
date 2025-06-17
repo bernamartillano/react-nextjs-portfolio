@@ -31,7 +31,7 @@ export default function Intro() {
             }}
           >
             <Image
-              src="https://scontent.fmnl8-3.fna.fbcdn.net/v/t39.30808-6/466680770_9178204422197675_5696627905693444604_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=a5f93a&_nc_eui2=AeF4cmslA72ScZ2OBW7-wMaPxXCT4Gn4caPFcJPgafhxowyoCiJ_BJfLFsA_8l07e8_ry4BTIAPwU8d6m4GhMDJy&_nc_ohc=CZZ9RJuMACgQ7kNvgGgis6f&_nc_oc=AdhcZSKDRMGfQOf_LDksUZ9tNST0rcJMTTrd2PWiGNAocMp383YPC6wh1Q5XpruRf0k&_nc_zt=23&_nc_ht=scontent.fmnl8-3.fna&_nc_gid=AKhbTCoWeG6H-0RZ-sDE_yj&oh=00_AYBEDXVlSRPf7xpQY5QYqr4JGJFSY9_DDjm7jbpl0-iZ1A&oe=67C47A1A"
+              src="https://scontent.fmnl25-3.fna.fbcdn.net/v/t39.30808-6/466680770_9178204422197675_5696627905693444604_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=a5f93a&_nc_ohc=asdtimXTOiUQ7kNvwEBFiRm&_nc_oc=AdlpXuPyLopL94zOnAHGseueB4jixr2KM6Eol-gxauG74FTzftsjcmZoozVprwm-5vc&_nc_zt=23&_nc_ht=scontent.fmnl25-3.fna&_nc_gid=xryn03OCqei_BrbH_jitVw&oh=00_AfNdS0DdcFwUwzS1nA6kWQQBIJBc4c5URZtBrznJvEPv3w&oe=6857411A"
               alt="Bernadette portrait"
               width="192"
               height="192"
