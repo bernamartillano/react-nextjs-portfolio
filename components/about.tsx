@@ -30,6 +30,13 @@ export default function About() {
         . I’m also experienced with React and content management systems like{" "}
         <span className="font-medium underline"> WordPress </span> and{" "}
         <span className="font-medium underline"> Shopify </span>.
+        <span>
+          See for more info/pictures of projects:
+          <span className="underline">
+            {" "}
+            https://www.canva.com/design/DAGN1d2d1P0/5C0bOeOjjIPqW2gOHMlAug/view?utm_content=DAGN1d2d1P0&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h8ece5c4a41{" "}
+          </span>
+        </span>
       </p>
       <p className="mb-3">
         I excel at{" "}
